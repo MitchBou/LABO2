@@ -98,3 +98,4 @@ int point_sur_la_meme_ligne(ptr_point2d p1, ptr_point2d p2)
 		return 0;
 	}
 }
+//allo
